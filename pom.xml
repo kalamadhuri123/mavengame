@@ -21,11 +21,9 @@
         <jelastic.environment>wakaleo</jelastic.environment>
     </properties>
 
-    <scm>
-        <connection>scm:git:git@github.com:${github.account}/game-of-life.git</connection>
-        <developerConnection>scm:git:git@github.com:${github.account}/game-of-life.git</developerConnection>
-        <url>scm:git:git@github.com:${github.account}/game-of-life.git</url>
-    </scm>
+  <scm>
+    <developerConnection>scm:git@github.com:kalamadhuri123/mavengame.git/</developerConnection>
+ </scm>
     <build>
         <plugins>
             <plugin>
@@ -76,9 +74,7 @@
                 </executions>
             </plugin>
 			
- <scm>
-    <developerConnection>scm:git@github.com:kalamadhuri123/mavengame.git/</developerConnection>
- </scm>
+ 
   
   <build>
     <plugins>
