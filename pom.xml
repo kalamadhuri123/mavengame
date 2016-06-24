@@ -76,7 +76,7 @@
 			
  
   
-  <build>
+ 
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -84,7 +84,7 @@
         <version>2.5.3</version>
       </plugin>
     </plugins>
-  </build>
+ 
 
 			<!-- CODE COVERAGE -->
             <plugin>
