@@ -22,7 +22,7 @@
     </properties>
 
   <scm>
-    <developerConnection>scm:git@github.com:kalamadhuri123/mavengame.git/</developerConnection>
+    <developerConnection>scm:git:git@github.com:kalamadhuri123/mavengame.git/</developerConnection>
  </scm>
     <build>
         <plugins>
